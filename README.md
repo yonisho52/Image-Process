@@ -44,7 +44,8 @@ the process in grey levels.
 * This system runs an algorithm for identifying flowers in a test image based on positive and negative patterns, based on pre-processing, both on the experiment image and on the template database. 
 
 * Examles for templates, before and after process:
-<img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20131130.jpg" width=400>  <img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20130329.jpg" width=400>
+<img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20131130.jpg" width=400>
+<img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20130329.jpg" width=400>
 
 * Examles for test image, before and after process:
 <img src="result%20Final%20Project/after%20process/test%20images/Screenshot%202020-10-15%20131414.jpg" width=400>
