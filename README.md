@@ -49,7 +49,7 @@ the process in grey levels.
 <img src="result%20Final%20Project/after%20process/test%20images/Screenshot%202020-10-15%20131414.jpg" width=400>
 
 
-* After processing the images, the system transfers the data to the function for finding the patterns on the free image.
+* After processing the images, the system transfers the data to the function for finding the patterns on the free image using 'matchTemplate' function from OpenCv libary.
 * if the 'treshold' is in range and also the image is not in the area of the negative patterns, the system will mark the pattern identified on the image.
 * with OpenCv library but without 'haar cascade' algorithm.
 * Examles for results:
