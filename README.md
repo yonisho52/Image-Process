@@ -4,9 +4,13 @@
 make the image sharper with laplacian, without OpenCv library.  
 the project also refer to the padding of the image.
 the process in grey levels.
-* Examles:
+* Examle:
 
 <img src="project1/view1.jpg" width=400>
+
+* grey level:
+
+<img src="result%20Project1/grayLevel2.png" width=400>
 
 * result:
 
@@ -20,8 +24,7 @@ the process in grey levels.
 
 * Examle 1:
 
-<img src="project2/eye4.jpg" width=300>
-<img src="project2/view2.jpg" width=300>
+<img src="project2/eye4.jpg" width=300>  <img src="project2/view2.jpg" width=300>
 
 * result 1:
 
@@ -29,8 +32,7 @@ the process in grey levels.
 
 * Examle 2:
 
-<img src="project2/wall1.jpg" width=300>
-<img src="project2/wall5.jpg" width=300>
+<img src="project2/wall1.jpg" width=300>  <img src="project2/wall5.jpg" width=300>
 
 * result 2:
 
@@ -42,8 +44,7 @@ the process in grey levels.
 * This system runs an algorithm for identifying flowers in a test image based on positive and negative patterns, based on pre-processing, both on the experiment image and on the template database. 
 
 * Examles for templates, before and after process:
-<img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20131130.jpg" width=400>
-<img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20130329.jpg" width=400>
+<img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20131130.jpg" width=400>  <img src="result%20Final%20Project/after%20process/templates/Screenshot%202020-10-15%20130329.jpg" width=400>
 
 * Examles for test image, before and after process:
 <img src="result%20Final%20Project/after%20process/test%20images/Screenshot%202020-10-15%20131414.jpg" width=400>
