@@ -18,21 +18,21 @@ morphing function beetwin 2 images, without OpenCv library.
 after the morphing functions, images process of the result.
 the process in grey levels.
 
-* Examles:
+* Examle 1:
 
 <img src="project2/eye4.jpg" width=300>
 <img src="project2/view2.jpg" width=300>
 
-* result:
+* result 1:
 
 <img src="result%20Project2/res1.jpg" width=400>
 
-* Examles:
+* Examle 2:
 
 <img src="project2/wall1.jpg" width=300>
 <img src="project2/wall5.jpg" width=300>
 
-* result:
+* result 2:
 
 <img src="result%20Project2/res2.jpg" width=400>
 
